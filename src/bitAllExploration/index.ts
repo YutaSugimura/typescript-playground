@@ -1,3 +1,4 @@
+// 全探索
 const bitAllExploration = () => {
   const v = ['A', 'B', 'C', 'D', 'E', 'F'];
 
